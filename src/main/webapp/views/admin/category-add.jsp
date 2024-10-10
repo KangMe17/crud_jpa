@@ -4,8 +4,6 @@
 
 <%@ taglib prefix="c" uri="jakarta.tags.core"%>
 
-
-
 <form action="<c:url value='/admin/category/insert'></c:url>"
 	method="post" enctype="multipart/form-data">
 
